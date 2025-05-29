@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Prompt', sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+}
+
+header h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 50px;
+  color: #0e8219;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #dfe9e5;
+  text-align: center;
+  padding: 10px 0;
+}
+
+footer p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.2em;
+  color: #2a7f62;
+}
