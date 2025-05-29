@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Prompt', sans-serif;
-  background-color: #f0f4f8;
+  background-color: #ffffffae;
   color: #333;
 }
 
@@ -13,7 +13,27 @@ header h1 {
   margin-top: 50px;
   color: #0e8219;
 }
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
 
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+.titulo-tabela {
+  background-color: rgb(0, 0, 0);
+  color: green;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
 footer {
   position: fixed;
   bottom: 0;
